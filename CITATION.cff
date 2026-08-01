@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or its computational results, please cite the accompanying manuscript and the archived software release."
+title: "Computational archive for Smallest Graphs with Non-Log-Concave Total-Domination Polynomials and a Correction for Generalized Barbell Graphs"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Joensen"
+    given-names: "Jón"
+    orcid: "https://orcid.org/0009-0000-2365-9519"
+    affiliation: "Independent Researcher"
+abstract: >-
+  Source code, graph census inputs, saved computational outputs, and
+  structural-analysis materials accompanying the manuscript Smallest
+  Graphs with Non-Log-Concave Total-Domination Polynomials and a
+  Correction for Generalized Barbell Graphs. The archive contains an
+  exhaustive Python census of unlabeled graphs without isolated vertices
+  through order eight, an independent JavaScript verification, graph6
+  validation tools, and an inclusion-exclusion analysis of an exceptional
+  graph.
+keywords:
+  - graph theory
+  - total domination
+  - total-domination polynomial
+  - log-concavity
+  - unimodality
+  - graph census
+  - graph6
+  - computational verification
+license: MIT
