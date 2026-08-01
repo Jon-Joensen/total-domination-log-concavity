@@ -1,0 +1,6 @@
+# Preserve all hash-tracked files byte-for-byte across operating systems.
+*.py -text
+*.js -text
+first_census_output.txt -text
+independent_verification_output.txt -text
+data/original/*.g6 -text
